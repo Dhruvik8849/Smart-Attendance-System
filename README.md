@@ -31,7 +31,7 @@ through a user-friendly desktop interface.
 -   CSV-based record management system
 
 ## PROJECT STRUCTURE
-
+```
 Smart-Attendance-System/
 ├── app.py 
 ├── register.py 
@@ -44,7 +44,7 @@ Smart-Attendance-System/
 ├── attendance/ 
 ├── records/ 
 └── config/
-
+```
 ## HOW IT WORKS
 
 ### 1.  Register Student
